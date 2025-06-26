@@ -41,9 +41,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecology
+  - Evolution
+  - Sex allocation
+  - Life-history trade-offs
 
 education:
   - area: PhD Evolutionary Biology
