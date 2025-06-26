@@ -29,8 +29,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Lucas-Invernizzi-2?ev=hdr_xprf
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
