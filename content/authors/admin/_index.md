@@ -19,7 +19,7 @@ role: PhD
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Université Claude Bernard Lyon 1
-    url: 
+    url: https://www.univ-lyon1.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
