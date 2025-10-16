@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Sons Shorten Mother’s Lifespan in Preindustrial Families with a High Level of Infant Mortality"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Patrick Bergeron
+- Fanie Pelletier
+- Jean-François Lemaître
+- Mathieu Douhard
+date: "2024-10-01T00:00:00Z"
+doi: "10.1086/731792"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,23 +18,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*The American Naturalist*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In dimorphic vertebrates where males are larger than females, the energetic costs of producing and rearing sons can exceed those of daughters. In humans, differences in maternal energy intake suggest that sons require 10% and 7% more energy than daughters during pregnancy and lactation, respectively. Due to a trade-off between reproduction and somatic maintenance, having sons is expected to have a more pronounced detrimental impact on a mother’s lifespan than having daughters. A limitation of previous studies investigating this hypothesis is that the increased mortality cost of having sons was assumed to affect all mothers equally. Using a dataset from a preindustrial Quebec population monitored over two centuries, we found that the number of sons decreased postmenopausal lifespan only in mothers experiencing high infant mortality. Our study highlights the importance of interindividual variation in environmental conditions and maternal health when studying effects of offspring sex on reproductive costs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- cost of reproduction 
+- preindustrial humans 
+- maternal lifespan
+- offspring sex ratio
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.researchgate.net/publication/381418883_Sons_shorten_mother's_lifespan_in_pre-industrial_families_with_high_level_of_infant_mortality
+url_code: 'https://doi.org/10.5281/zenodo.11185119'
 url_dataset: ''
 url_poster: ''
 url_project: ''
