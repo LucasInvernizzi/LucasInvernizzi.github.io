@@ -117,4 +117,4 @@ awards:
 
 ## About Me
 
-Lucas Invernizzi is a PhD student in Evolutionnary Biology at the Université Claude Bernard Lyon 1 within the Biologie et Biométrie Evolutive lab. His research interests include evolutionary demography, sex allocation theory and senescence.
+I'm a PhD student in Evolutionnary Biology at the Université Claude Bernard Lyon 1 within the Biologie et Biométrie Evolutive lab. My research interests include evolutionary demography, sex allocation theory and senescence.
