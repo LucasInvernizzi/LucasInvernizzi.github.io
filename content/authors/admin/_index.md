@@ -29,7 +29,7 @@ profiles:
     label: E-mail Me
   - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Lucas-Invernizzi-2?ev=hdr_xprf
-    - icon: brands/linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/lucas-invernizzi-bee/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=oq8zT4wAAAAJ&hl=fr
@@ -87,7 +87,7 @@ skills:
         description: 'Use of statistical models (LMMs, GLMMs, GAMs, Cox models)'
         percent: 100
         icon: code-bracket
-  -name: Theoretical skills
+  - name: Theoretical skills
     items:
       - name: 
 languages:
